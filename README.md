@@ -10,10 +10,10 @@ This project is a Jython parser built using ANTLR in Java. This tool is  designe
 
 ## Screenshots
 - Structures of the test case:
-  <img src="screenshots/structure.png" alt="Structure" width="400"/>
+  <img src="screenshots/structure.jpg" alt="Structure" width="400"/>
 
 - Errors of the test case:
-  <img src="screenshots/errors.png" alt="Errors" width="400"/>
+  <img src="screenshots/errors.jpg" alt="Errors" width="400"/>
 
 
 ## How to Run
